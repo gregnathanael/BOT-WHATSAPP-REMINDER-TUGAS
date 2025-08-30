@@ -4,6 +4,9 @@
   Bot WhatsApp sederhana untuk mengingatkan tugas otomatis  
   made by ❤️ menggunakan <b>Node.js</b></b>
 </p>
+<p align="center">
+  Jika ingin bot berjalan dengan semestinya baca sampai akhir <b>(Note Penting !)</b>
+</p>
 
 ---
 
