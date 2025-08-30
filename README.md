@@ -86,3 +86,5 @@ npm start
 ## 📝 Note Penting !
 - Disaran run bot memakai panel pterodactyl dan mengatur jadwal restart bot dipanel <b>(Schedules)</b> agar terhindar dari bad session yang tidak diketahui
 <img src="preview/Schedule-1.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
+<img src="preview/Schedule-2.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
+<img src="preview/Schedule-3.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
