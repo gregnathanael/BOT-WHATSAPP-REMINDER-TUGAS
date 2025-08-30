@@ -17,7 +17,7 @@
 
 ---
 
-## 🤖 Command Bot
+## ⚡ Command Bot
 - .menu - Untuk melihat menu bot
 - .autoreminder on/off - Aktifkan/Nonaktifkan Auto Reminder pada group tertentu
 - .addtugas - Untuk menambahkan tugas
