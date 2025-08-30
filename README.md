@@ -48,16 +48,16 @@ Asia/Jayapura = WIT
 ---
 
 ## 🔧 Cara Menjalankan
-Clone repo ini
+Clone repo ini:
 ```bash
 git clone https://github.com/username/BOT-WHATSAPP-REMINDER-TUGAS.git
 cd BOT-WHATSAPP-REMINDER-TUGAS
 ```
-Install package
+Install package:
 ```
 npm install
 ```
-Jalankan Bot
+Jalankan Bot:
 ```
 node index.js
 ```
