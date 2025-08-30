@@ -35,9 +35,14 @@ database/settings.json
 
 ```
 // Bot Settings
-global.owner = ['628'] //Own Number
-global.developer = "GregXYZ" //Dev Name
+global.owner = ['628'] // Owner Number
+global.developer = "GregXYZ" // Dev Name
 global.zonaWaktu = "Asia/Makassar" // Waktu Auto Reminder
+
+Note:
+Asia/Pontianak = WIB
+Asia/Makassar = WITA
+Asia/Jayapura = WIT
 ```
 
 ---
