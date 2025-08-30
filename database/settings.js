@@ -4,26 +4,15 @@ const fs = require('fs')
 //Bot Settings
 global.connect = true // True For Pairing // False For Qr
 global.publicX = true // True For Public // False For Self
-global.owner = ['6287822428455'] //Own Number
-global.developer = "FluxXYZ" //Dev Name
-global.botname = "Cronexis - Botz" //Bot Name
-global.version = "6.0" //Version Bot
-
-//Password taruh disini
-global.password = "memex"
+global.owner = ['-'] //Own Number
+global.developer = "-" //Dev Name
+global.botname = "-" //Bot Name
+global.version = "1.0" //Version Bot
 
 //Sticker Setiings
 global.packname = "Sticker By Flux" //Pack Name 
 global.author = "FluxXYZ" // Author
 
-//Setting Api Panel
-
-global.egg = "15" // Isi id egg
-global.nestid = "5" // Isi id nest
-global.loc = "1" // Isi id location
-global.domain = "https://FluxXYZ.com" // Isi Domain lu
-global.apikey = "-" // Isi api ptla
-global.capikey = "-" // Isi api ptlc
 
 //Social Media Settings
 global.ytube = "https://youtube.com/@fluxx-md"
