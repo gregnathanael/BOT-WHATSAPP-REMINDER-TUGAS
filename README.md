@@ -38,8 +38,13 @@ Clone repo ini
 ```bash
 git clone https://github.com/username/BOT-WHATSAPP-REMINDER-TUGAS.git
 cd BOT-WHATSAPP-REMINDER-TUGAS
+```
+Install package
+```
 npm install
+```
+Jalankan Bot
+```
 node index.js
 ```
-
 ---
