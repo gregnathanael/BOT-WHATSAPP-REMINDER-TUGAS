@@ -86,5 +86,8 @@ npm start
 ## 📝 Note Penting !
 - Disaran run bot memakai panel pterodactyl dan mengatur jadwal restart bot dipanel <b>(Schedules)</b> agar terhindar dari bad session yang tidak diketahui
 <img src="preview/Schedule-1.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
+- Create New Schedules dengan waktu 30 menit/sesuka kalian
 <img src="preview/Schedule-2.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
+- Jika sudah terbuat, click New Task
 <img src="preview/Schedule-3.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
+- Dan atur seperti ini
