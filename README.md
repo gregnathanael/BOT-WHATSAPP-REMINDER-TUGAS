@@ -8,9 +8,8 @@
 ---
 
 ## 🚀 Fitur
-- Kirim reminder otomatis ke WhatsApp
-- Atur jadwal lewat konfigurasi
-- Penyimpanan data sederhana di `database/settings.json`
+- Kirim reminder otomatis ke WhatsApp (Group)
+- Atur jadwal lewat index.js
 - Mudah dikembangkan
 
 ---
@@ -20,25 +19,14 @@
 File konfigurasi berada di:  
 database/settings.json
 
-css
-Salin kode
-
-Contoh isi:
-```json
-{
-  "reminder": [
-    {
-      "matkul": "Matematika",
-      "pesan": "Jangan lupa kerjakan PR Matematika 📘",
-      "jadwal": "0 8 * * 1" 
-    },
-    {
-      "matkul": "Fisika",
-      "pesan": "Besok ada kuis Fisika ⚡",
-      "jadwal": "0 18 * * 0"
-    }
-  ]
-}
+```
+// Bot Settings
+global.connect = true // True For Pairing // False For Qr
+global.publicX = true // True For Public // False For Self
+global.owner = ['-'] //Own Number
+global.developer = "-" //Dev Name
+global.botname = "-" //Bot Name
+global.version = "1.0" //Version Bot
 ```
 
 ---
