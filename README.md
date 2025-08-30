@@ -80,5 +80,5 @@ npm start
 ```
 ---
 
-## 📝 Note Penting
+## 📝 Note Penting !
 - Disaran run bot memakai panel pterodactyl dan mengatur jadwal restart bot dipanel <b>(Schedules)</b> agar terhindar dari bad session yang tidak diketahui
