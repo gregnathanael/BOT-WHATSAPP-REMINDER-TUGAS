@@ -85,3 +85,5 @@ npm start
 
 ## 📝 Note Penting !
 - Disaran run bot memakai panel pterodactyl dan mengatur jadwal restart bot dipanel <b>(Schedules)</b> agar terhindar dari bad session yang tidak diketahui
+![Preview Bot]([https://raw.githubusercontent.com/username/repo/main/assets/preview.png](https://raw.githubusercontent.com/gregnathanael/BOT-WHATSAPP-REMINDER-TUGAS/main/preview/Schedule-1.png))
+
