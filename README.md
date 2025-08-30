@@ -31,8 +31,6 @@ global.version = "1.0" //Version Bot
 
 ---
 
----
-
 ## 🔧 Cara Menjalankan
 Clone repo ini
 ```bash
