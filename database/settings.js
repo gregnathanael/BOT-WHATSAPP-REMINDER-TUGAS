@@ -8,6 +8,24 @@ global.owner = ['-'] //Own Number
 global.developer = "-" //Dev Name
 global.botname = "-" //Bot Name
 global.version = "1.0" //Version Bot
+global.zonaWaktu = "Asia/Makassar" // Waktu Auto Reminder
+/*
+Note:
+Asia/Pontianak = WIB
+Asia/Makassar = WITA
+Asia/Jayapura = WIT
+*/
+
+global.reminder= "0 8 * * *" // Setiap jam 8:00
+/*
+Note:
+"0 8 * * *"
+0 = Menit - 8 = Jam = 8:00
+
+"30 7 * * *"
+30 = Menit - 7 = Jam = 7:30
+*/
+
 
 //Sticker Setiings
 global.packname = "Sticker By Flux" //Pack Name 

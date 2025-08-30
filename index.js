@@ -117,6 +117,8 @@ getRandom,
 getGroupAdm, 
 generateProfilePicture 
 } = require('./database/pusat/Data1.js')
+
+
 const cron = require('node-cron');
 const moment = require('moment-timezone');
 
@@ -157,7 +159,7 @@ function toTitleCase(str) {
   function cleanTugas() {
     const fs = require('fs');
     const moment = require('moment-timezone');
-    const zonaWaktu = 'Asia/Makassar';
+    const zonaWaktu = global.zonaWaktu;
     const filePath = './database/tugas.json';
   
     if (!fs.existsSync(filePath)) return;
@@ -174,7 +176,7 @@ function toTitleCase(str) {
     fs.writeFileSync(filePath, JSON.stringify(semuaTugas, null, 2));
   }
 
-const zonaWaktu = 'Asia/Makassar';
+const zonaWaktu = global.zonaWaktu;
 const tugasFile = './database/tugas.json';
 const reminderFile = './database/reminder.json';
 const lockPath = './database/reminder.lock';
@@ -250,7 +252,7 @@ function runReminder2() {
   if (global.__reminderCronStarted) return;
 
   // Jadwal reminder setiap hari jam 08:00
-  cron.schedule('24 * * * *', async () => {
+  cron.schedule(global.reminder, async () => {
     const now = moment().tz(zonaWaktu);
     const currentMinute = now.format('YYYY-MM-DD HH:mm');
 

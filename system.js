@@ -3,7 +3,6 @@ console.clear();
 
 //END
 //SCANING CONTROL
-
 require('./database/settings.js')
 //END
 
