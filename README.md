@@ -39,7 +39,7 @@ global.owner = ['628'] // Owner Number
 global.developer = "GregXYZ" // Dev Name
 global.zonaWaktu = "Asia/Makassar" // Waktu Auto Reminder
 
-/ *Note:
+/* Note:
 Asia/Pontianak = WIB
 Asia/Makassar = WITA
 Asia/Jayapura = WIT */
