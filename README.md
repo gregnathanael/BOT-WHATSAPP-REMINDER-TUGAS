@@ -39,6 +39,10 @@ Contoh isi:
     }
   ]
 }
+```
+
+---
+
 📌 Format jadwal menggunakan cron expression:
 
 0 8 * * 1 → setiap Senin jam 08:00
