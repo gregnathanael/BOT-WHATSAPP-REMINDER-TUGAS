@@ -55,4 +55,8 @@ Jalankan Bot
 ```
 node index.js
 ```
+atau
+```
+npm start
+```
 ---
