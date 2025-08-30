@@ -21,12 +21,8 @@ database/settings.json
 
 ```
 // Bot Settings
-global.connect = true // True For Pairing // False For Qr
-global.publicX = true // True For Public // False For Self
-global.owner = ['-'] //Own Number
-global.developer = "-" //Dev Name
-global.botname = "-" //Bot Name
-global.version = "1.0" //Version Bot
+global.owner = ['628'] //Own Number
+global.developer = "GregXYZ" //Dev Name
 ```
 
 ---
