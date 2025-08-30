@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">🤖 BOT WhatsApp Reminder Tugas 📚</h1>
 <p align="center">
-  Bot WhatsApp sederhana untuk mengingatkan jadwal/tugas otomatis  
+  Bot WhatsApp sederhana untuk mengingatkan tugas otomatis  
   made by ❤️ menggunakan <b>Node.js</b></b>
 </p>
 
