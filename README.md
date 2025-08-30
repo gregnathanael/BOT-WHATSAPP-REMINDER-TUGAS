@@ -38,6 +38,7 @@ database/settings.json
 global.owner = ['628'] // Owner Number
 global.developer = "GregXYZ" // Dev Name
 global.zonaWaktu = "Asia/Makassar" // Waktu Auto Reminder
+
 /*
 Note:
 Asia/Pontianak = WIB
@@ -46,6 +47,7 @@ Asia/Jayapura = WIT
 */
 
 global.reminder= "0 8 * * *" // Setiap jam 8:00
+
 /*
 Note:
 "0 8 * * *"
