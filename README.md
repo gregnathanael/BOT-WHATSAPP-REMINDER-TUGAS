@@ -9,8 +9,22 @@
 
 ## 🚀 Fitur
 - Kirim reminder otomatis ke WhatsApp (Group)
-- Atur jadwal lewat index.js
+- Bisa melihat tugas apa saja yang sedang berlangsung
+- Bisa melihat Jadwal Pelajaran dengan gambar (database/pusat/image/jadwal.jpeg)
+- Bisa mengatur waktu sesuai lokasi yang anda pilih, agar tidak salah waktu dalam mengirim jadwal otomatis (node-cron)
+- Otomatis menghilang saat melewati deadline/tenggat waktu
 - Mudah dikembangkan
+
+---
+
+## 🤖 Command Bot
+- .menu - Untuk melihat menu bot
+- .autoreminder on/off - Aktifkan/Nonaktifkan Auto Reminder pada group tertentu
+- .addtugas - Untuk menambahkan tugas
+- .deltugas - Untuk menghapus tugas
+- .tugas - Untuk melihat tugas yang sedang berlangsung
+- .addpengurus - Menambah pengurus agar bisa mengakses perintah <b>.addtugas/.deltugas</b>
+- .delpengurus - Menghapus pengurus
 
 ---
 
