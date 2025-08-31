@@ -94,17 +94,17 @@ Disarankan untuk menjalankan bot menggunakan **Panel Pterodactyl** dan mengatur 
      <img src="preview/Schedule-1.png" alt="Screenshot Panel Pterodactyl" width="70%">
    </p>
 
-2. Setelah itu, buat **New Schedule** dengan interval 30 menit atau sesuai keinginan.  
+2. Setelah itu, buat **New Task**
    <p align="center">
      <img src="preview/Schedule-2.png" alt="Screenshot Panel Pterodactyl" width="70%">
    </p>
 
-3. Jika sudah terbuat, klik **New Task**.  
+3. Masukan option seperti di gambar berikut ini:
    <p align="center">
      <img src="preview/Schedule-3.png" alt="Screenshot Panel Pterodactyl" width="70%">
    </p>
 
-4. Atur Task seperti pada contoh agar restart otomatis berjalan dengan benar.
+4. Tinggal click **Create Task** dan **Save**
 
 ---
 
