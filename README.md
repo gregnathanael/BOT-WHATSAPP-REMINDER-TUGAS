@@ -84,10 +84,27 @@ npm start
 ---
 
 ## 📝 Note Penting !
-- Disaran run bot memakai panel pterodactyl dan mengatur jadwal restart bot dipanel <b>(Schedules)</b> agar terhindar dari bad session yang tidak diketahui
-<img src="preview/Schedule-1.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
-- Create New Schedules dengan waktu 30 menit/sesuka kalian
-<img src="preview/Schedule-2.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
-- Jika sudah terbuat, click New Task
-<img src="preview/Schedule-3.png" alt="Screenshot Panel Pterodactyl" width="50%" height="50%">
-- Dan atur seperti ini
+Disarankan untuk menjalankan bot menggunakan **Panel Pterodactyl** dan mengatur jadwal restart bot di menu **Schedules** agar terhindar dari *bad session* yang tidak diketahui.
+
+---
+
+### 🔄 Cara Mengatur Restart Otomatis
+1. Buka menu **Create New Schedule** dan atur waktu sesuai kebutuhan (misalnya setiap 30 menit).  
+   <p align="center">
+     <img src="preview/Schedule-1.png" alt="Screenshot Panel Pterodactyl" width="70%">
+   </p>
+
+2. Setelah itu, buat **New Schedule** dengan interval 30 menit atau sesuai keinginan.  
+   <p align="center">
+     <img src="preview/Schedule-2.png" alt="Screenshot Panel Pterodactyl" width="70%">
+   </p>
+
+3. Jika sudah terbuat, klik **New Task**.  
+   <p align="center">
+     <img src="preview/Schedule-3.png" alt="Screenshot Panel Pterodactyl" width="70%">
+   </p>
+
+4. Atur Task seperti pada contoh agar restart otomatis berjalan dengan benar.
+
+---
+
